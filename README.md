@@ -12,7 +12,7 @@ Layout Responsivo: Se adapta a diferentes tamanhos de tela, de desktops a celula
 
 Validação de Campos: Utiliza o atributo required do HTML5 para garantir que os campos essenciais sejam preenchidos.
 
-Estrutura Semântica: Uso correto de tags como <form>, <fieldset>, <legend>, e <label> para acessibilidade e organização.
+Estrutura Semântica: Uso correto de tags como `<form>`, `<fieldset>`, `<legend>`, e `<label>` para acessibilidade e organização.
 
 Campos Variados: Inclui inputs de texto, número, e-mail, data, rádio e seletores (<select>).
 
